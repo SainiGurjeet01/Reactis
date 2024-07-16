@@ -1,7 +1,7 @@
 import { Component } from "react";
 import Header from "./components/Header";
-import CartContainer from "./components/CartContainer";
-import Footer from "./components/Footer";
+import CartContainer from "./components/Cartcontainer";
+import Footer from "./components/footer";
 
 class App extends Component{
   render(){
